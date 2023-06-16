@@ -36,8 +36,9 @@ Feel free to explore more of my repositories for additional projects and contrib
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
+
 
 ---
 
