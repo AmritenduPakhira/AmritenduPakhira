@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 # Hello, I'm Amritendu! 👋
 
 I'm a Full Stack Developer with a specialization in Java. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions in various domains. I'm passionate about creating robust and scalable applications using cutting-edge technologies.
@@ -36,4 +36,4 @@ You can connect with me on the following platforms:
 
 Let's collaborate and build amazing things together! 😄
 .
--->
+
