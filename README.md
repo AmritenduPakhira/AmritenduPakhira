@@ -35,8 +35,9 @@ Feel free to explore more of my repositories for additional projects and contrib
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritenduPakhira&layout=compact&theme=dark" alt="Most Used Languages" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
