@@ -1,12 +1,13 @@
 
   <h1>👋 Hello, I'm Amritendu!</h1>
   <h3>A Full Stack Developer </h3>
+  <div>
   
    ![Profile Views](https://komarev.com/ghpvc/?username=AmritenduPakhira)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amritendu-pakhira-881697233/)
 
-
+</div>
 
 ---
 
