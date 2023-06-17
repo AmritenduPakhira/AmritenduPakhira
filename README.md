@@ -22,7 +22,7 @@
   </div>
 
   <div style="flex: 1;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkEtPkKj4XR0FlwvSd3w3PIM4jyP4dJGsecCTPk8Z&s" alt="Animated GIF" width="400" />
+ <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
   </div>
 </div>
 
