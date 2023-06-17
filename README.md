@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hello, I'm Amritendu!</h1>
-  <h3>A Full Stack Developer and Arduino Enthusiast</h3>
+  <h3>A Full Stack Developer </h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&logo=portfolio)](https://www.yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amritendu-pakhira-881697233/)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pakhiraamritendu@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-Visit-9cf?style=flat-square&logo=portfolio)](https://twitter.com/AmritenduPakhi3)
 </div>
 
 ---
@@ -13,11 +13,9 @@
 
 - 💻 Java (Spring Boot, Hibernate)
 - 🌐 HTML, CSS, JavaScript
-- 📱 Android Development
 - 🗃️ Relational and NoSQL Databases (MySQL, MongoDB)
 - 🔧 Git, GitHub, and Version Control
 - 🚀 RESTful APIs
-- ⚙️ DevOps (Docker, Kubernetes)
 - ☁️ Cloud Platforms (AWS, Azure)
 - ⚡ Arduino IDE
 
