@@ -14,12 +14,12 @@
 
 <div align="right">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkEtPkKj4XR0FlwvSd3w3PIM4jyP4dJGsecCTPk8Z&s" alt="Animated GIF" width="400" />
-</div>
+
 
 - 💻 Full Stack Developer with a passion for creating innovative and robust applications.
 - 🌍 Open Source Enthusiast, actively contributing to various projects.
 - 🌱 Currently learning and exploring intermediate-level Arduino development.
-
+</div>
 
 ### 🌟 Technical Skills
 
@@ -83,8 +83,9 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritenduPakhira&layout=compact&theme=dark" alt="Most Used Languages" style="margin-right: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats" style="margin-right: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritenduPakhira&layout=compact&theme=dark" alt="Most Used Languages" >
+
 </div>
 
 
