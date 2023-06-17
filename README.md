@@ -24,7 +24,7 @@
 
 #### 💻 Languages:
 
-<div align="center">
+<div>
   
   ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java)
   ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp)
@@ -34,7 +34,7 @@
 
 #### 🌐 Development:
 
-<div align="center">
+<div >
   
   ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
@@ -47,7 +47,7 @@
 
 #### 🗃️ Database:
 
-<div align="center">
+<div >
   
   ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=for-the-badge&logo=mongodb)
@@ -56,7 +56,7 @@
 
 #### ☁️ Cloud Computing Technology:
 
-<div align="center">
+<div >
   
   ![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazon-aws)
   
