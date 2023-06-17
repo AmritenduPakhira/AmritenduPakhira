@@ -13,12 +13,13 @@
 ### 👨‍💻 About Me
 
 <div align="right">
-  <img src="https://gencraft.ai/p/8TKwUQ" alt="Animated GIF" width="300" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkEtPkKj4XR0FlwvSd3w3PIM4jyP4dJGsecCTPk8Z&s" alt="Animated GIF" width="400" />
 </div>
 
-- Full Stack Developer with a passion for creating innovative and robust applications.
-- Open Source Enthusiast, actively contributing to various projects.
-- Currently learning and exploring intermediate-level Arduino development.
+- 💻 Full Stack Developer with a passion for creating innovative and robust applications.
+- 🌍 Open Source Enthusiast, actively contributing to various projects.
+- 🌱 Currently learning and exploring intermediate-level Arduino development.
+
 
 ### 🌟 Technical Skills
 
@@ -64,7 +65,7 @@
 
 #### Development Tools:
 
-<div align="center">
+<div>
   
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-orange?style=for-the-badge&logo=visual-studio-code)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-orange?style=for-the-badge&logo=visual-studio)
@@ -74,22 +75,18 @@
 
 #### 🔧 Version Control:
 
-<div align="center">
+<div>
   
   ![GitHub](https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github)
   ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
   
 </div>
 
-
-
-
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritenduPakhira&layout=compact&theme=dark" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritenduPakhira&layout=compact&theme=dark" alt="Most Used Languages" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
+
 
 
 
