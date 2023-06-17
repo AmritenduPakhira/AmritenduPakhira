@@ -2,8 +2,10 @@
   <h1>👋 Hello, I'm Amritendu!</h1>
   <h3>A Full Stack Developer </h3>
   
+   ![Profile Views](https://komarev.com/ghpvc/?username=AmritenduPakhira)
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amritendu-pakhira-881697233/)
- ![Profile Views](https://komarev.com/ghpvc/?username=AmritenduPakhira)
+
 
 
 ---
@@ -22,39 +24,63 @@
 
 #### 💻 Languages:
 
-- Java
-- C#
-- Python
+<div align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java)
+  ![C#](https://img.shields.io/badge/C%23-Advanced-blue?style=for-the-badge&logo=c-sharp)
+  ![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python)
+  
+</div>
 
 #### 🌐 Development:
 
-- HTML
-- CSS
-- JavaScript
-- Angular
-- Node.js
-- Bootstrap
+<div align="center">
+  
+  ![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-blue?style=for-the-badge&logo=javascript)
+  ![Angular](https://img.shields.io/badge/Angular-Intermediate-yellow?style=for-the-badge&logo=angular)
+  ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-yellow?style=for-the-badge&logo=node.js)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-yellow?style=for-the-badge&logo=bootstrap)
+  
+</div>
 
 #### 🗃️ Database:
 
-- MySQL
-- MongoDB
+<div align="center">
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-Expert-orange?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-yellow?style=for-the-badge&logo=mongodb)
+  
+</div>
 
 #### ☁️ Cloud Computing Technology:
 
-- AWS
+<div align="center">
+  
+  ![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow?style=for-the-badge&logo=amazon-aws)
+  
+</div>
 
 #### Development Tools:
 
-- Visual Studio Code
-- Visual Studio
-- Arduino IDE
+<div align="center">
+  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Expert-orange?style=for-the-badge&logo=visual-studio-code)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-Expert-orange?style=for-the-badge&logo=visual-studio)
+  ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-Intermediate-yellow?style=for-the-badge&logo=arduino)
+  
+</div>
 
 #### 🔧Version Control:
 
-- GitHub, Git
+<div align="center">
+  
+  ![GitHub](https://img.shields.io/badge/GitHub-Expert-orange?style=for-the-badge&logo=github)
+  ![Git](https://img.shields.io/badge/Git-Expert-orange?style=for-the-badge&logo=git)
+  
+</div>
 
----
 
 
 
