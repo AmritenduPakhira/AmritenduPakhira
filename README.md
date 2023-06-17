@@ -12,14 +12,19 @@
 
 ### 👨‍💻 About Me
 
-<div align="right">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkEtPkKj4XR0FlwvSd3w3PIM4jyP4dJGsecCTPk8Z&s" alt="Animated GIF" width="400" />
-
-
-- 💻 Full Stack Developer with a passion for creating innovative and robust applications.
-- 🌍 Open Source Enthusiast, actively contributing to various projects.
-- 🌱 Currently learning and exploring intermediate-level Arduino development.
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <ul>
+      <li>💻 Full Stack Developer with a passion for creating innovative and robust applications.</li>
+      <li>🌍 Open Source Enthusiast, actively contributing to various projects.</li>
+      <li>🌱 Currently learning and exploring intermediate-level Arduino development.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkEtPkKj4XR0FlwvSd3w3PIM4jyP4dJGsecCTPk8Z&s" alt="Animated GIF" />
+  </div>
 </div>
+
 
 ### 🌟 Technical Skills
 
