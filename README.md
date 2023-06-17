@@ -1,11 +1,11 @@
-<div align="center">
+
   <h1>👋 Hello, I'm Amritendu!</h1>
   <h3>A Full Stack Developer </h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amritendu-pakhira-881697233/)
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pakhiraamritendu@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-Visit-9cf?style=flat-square&logo=portfolio)](https://twitter.com/AmritenduPakhi3)
-</div>
+
 
 ---
 
