@@ -12,18 +12,20 @@
 
 ### 👨‍💻 About Me
 
-<div>
-  <div style="display: inline-block; vertical-align: top;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
     <ul>
       <li>💻 Full Stack Developer with a passion for creating innovative and robust applications.</li>
       <li>🌍 Open Source Enthusiast, actively contributing to various projects.</li>
       <li>🌱 Currently learning and exploring intermediate-level Arduino development.</li>
     </ul>
   </div>
-  <div style="display: inline-block;">
+
+  <div style="flex: 1;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkEtPkKj4XR0FlwvSd3w3PIM4jyP4dJGsecCTPk8Z&s" alt="Animated GIF" width="400" />
   </div>
 </div>
+
 
 
 
@@ -91,10 +93,10 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritenduPakhira&layout=compact&theme=dark" alt="Most Used Languages" style="margin-right: 40%;">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AmritenduPakhira&show_icons=true&theme=dark" alt="GitHub Stats" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritenduPakhira&layout=compact&theme=dark" alt="Most Used Languages" style="margin-left: 10px;">
 </div>
+
 
 
 
