@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; ">
   <div style="flex: 1;">
     <ul>
       <li>💻 Full Stack Developer with a passion for creating innovative and robust applications.</li>
